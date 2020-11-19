@@ -1,0 +1,130 @@
+{
+  "Entities": [
+    {
+      "id": 1,
+      "name": "newspaper",
+      "raw": 1,
+      "type": "cloth",
+      "top": 0,
+      "bottom": 0,
+      "crowlocked": 0
+    },
+    {
+      "id": 2,
+      "name": "handkerchief",
+      "raw": 1,
+      "type": "cloth",
+      "top": 0,
+      "bottom": 0,
+      "crowlocked": 0
+    },
+    {
+      "id": 3,
+      "name": "yarn",
+      "raw": 1,
+      "type": "string",
+      "top": 0,
+      "bottom": 0,
+      "crowlocked": 0
+    },
+    {
+      "id": 4,
+      "name": "confetti",
+      "raw": 1,
+      "type": "string",
+      "top": 0,
+      "bottom": 0,
+      "crowlocked": 1
+    },
+    {
+      "id": 5,
+      "name": "onebead",
+      "raw": 1,
+      "type": "bead",
+      "top": 0,
+      "bottom": 0,
+      "crowlocked": 0
+    },
+    {
+      "id": 6,
+      "name": "twobead",
+      "raw": 1,
+      "type": "bead",
+      "top": 0,
+      "bottom": 0,
+      "crowlocked": 0
+    },
+    {
+      "id": 7,
+      "name": "sapphire",
+      "raw": 1,
+      "type": "jewelry",
+      "top": 0,
+      "bottom": 0,
+      "crowlocked": 1
+    },
+    {
+      "id": 8,
+      "name": "diamond",
+      "raw": 1,
+      "type": "jewelry",
+      "top": 0,
+      "bottom": 0,
+      "crowlocked": 1
+    },
+    {
+      "id": 9,
+      "name": "frilly top",
+      "raw": 0,
+      "type": "clothes",
+      "top": 1,
+      "bottom": 0,
+      "crowlocked": 0
+    },
+    {
+      "id": 10,
+      "name": "collared vest",
+      "raw": 0,
+      "type": "clothes",
+      "top": 1,
+      "bottom": 0,
+      "crowlocked": 0
+    },
+    {
+      "id": 11,
+      "name": "uniform",
+      "raw": 0,
+      "type": "clothes",
+      "top": 1,
+      "bottom": 1,
+      "crowlocked": 0
+    },
+    {
+      "id": 12,
+      "name": "space dress",
+      "raw": 0,
+      "type": "clothes",
+      "top": 1,
+      "bottom": 1,
+      "crowlocked": 0
+    },
+    {
+      "id": 13,
+      "name": "shorts",
+      "raw": 0,
+      "type": "clothes",
+      "top": 0,
+      "bottom": 1,
+      "crowlocked": 0
+    },
+    {
+      "id": 14,
+      "name": "pants",
+      "raw": 0,
+      "type": "clothes",
+      "top": 0,
+      "bottom": 1,
+      "crowlocked": 0
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "Entities": [
+    {
+      "id": 1,
+      "name": "newspaper",
+      "raw": 1,
+      "type": "cloth",
+      "dynamic_restricted_regions": ["nose"],
+      "static_restricted_regions": [],
+      "crowlocked": 0,
+      "img": "newspaper.png"
+    },
+    {
+      "id": 2,
+      "name": "handkerchief",
+      "raw": 1,
+      "type": "cloth",
+      "dynamic_restricted_regions": ["nose"],
+      "static_restricted_regions": [],
+      "crowlocked": 0,
+      "img": "handerchief.png"
+    },
+    {
+      "id": 3,
+      "name": "yarn",
+      "raw": 1,
+      "type": "string",
+      "dynamic_restricted_regions": ["hair","nose"],
+      "static_restricted_regions": [],
+      "crowlocked": 0,
+      "img": "yarn.png"
+    },
+    {
+      "id": 4,
+      "name": "confetti",
+      "raw": 1,
+      "type": "string",
+      "dynamic_restricted_regions": ["hair","nose"],
+      "static_restricted_regions": [],
+      "crowlocked": 1,
+      "img": "confetti.png"
+    },
+    {
+      "id": 5,
+      "name": "onebead",
+      "raw": 1,
+      "type": "bead",
+      "dynamic_restricted_regions": ["left eye","right eye","nose"],
+      "static_restricted_regions": [],
+      "crowlocked": 0,
+      "img": "onebead.png"
+    },
+    {
+      "id": 6,
+      "name": "twobead",
+      "raw": 1,
+      "type": "bead",
+      "dynamic_restricted_regions": [["left eye","right eye"],"nose"],
+      "static_restricted_regions": [],
+      "crowlocked": 0,
+      "img": "twobeads.png"
+    },
+    {
+      "id": 7,
+      "name": "sapphire",
+      "raw": 1,
+      "type": "jewelry",
+      "dynamic_restricted_regions": ["neck","nose"],
+      "static_restricted_regions": [],
+      "crowlocked": 1,
+      "img": "sapphire.png"
+    },
+    {
+      "id": 8,
+      "name": "diamond",
+      "raw": 1,
+      "type": "jewelry",
+      "dynamic_restricted_regions": ["neck","nose"],
+      "static_restricted_regions": [],
+      "crowlocked": 1,
+      "img": "diamond.png"
+    },
+    {
+      "id": 9,
+      "name": "frilly top",
+      "raw": 0,
+      "type": "clothes",
+      "dynamic_restricted_regions": [],
+      "static_restricted_regions": ["top"],
+      "crowlocked": 0,
+      "img": "frillytee.png"
+    },
+    {
+      "id": 10,
+      "name": "collared vest",
+      "raw": 0,
+      "type": "clothes",
+      "dynamic_restricted_regions": [],
+      "static_restricted_regions": ["top"],
+      "crowlocked": 0,
+      "img": "bluetee.png"
+    },
+    {
+      "id": 11,
+      "name": "uniform",
+      "raw": 0,
+      "type": "clothes",
+      "dynamic_restricted_regions": [],
+      "static_restricted_regions": ["top", "bottom"],
+      "crowlocked": 0,
+      "img": "uniform.png"
+    },
+    {
+      "id": 12,
+      "name": "space dress",
+      "raw": 0,
+      "type": "clothes",
+      "dynamic_restricted_regions": [],
+      "static_restricted_regions": ["top", "bottom"],
+      "crowlocked": 0,
+      "img": "spacedress.png"
+    },
+    {
+      "id": 13,
+      "name": "shorts",
+      "raw": 0,
+      "type": "clothes",
+      "dynamic_restricted_regions": [],
+      "static_restricted_regions": ["bottom"],
+      "crowlocked": 0,
+      "img": "shorts.png"
+    }
+  ]
+}
